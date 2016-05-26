@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.mian{
+	width:1000px;
+	//height:40px;
+	border:1px solid red;
+}
+.top{
+	width:1000px;
+	height:40px;
+	overflow:auto;//超出内容后自动形成滚动条
+	background-color:#8F8FBD;
+	border:1px solid red;
+}
+.bottom{
+	width:1000px;
+	height:150px;
+	bordr:1px solid red;
+}

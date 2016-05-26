@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.main{
+	width:800px;
+	height:600px;
+	border:1px solid red;
+	background-color: #C2EAE9;
+}
+.top{
+	background-image: url("../images/postmessage.png");
+	width:800px;
+	height:170px;
+}
+.buttom{
+	width:400px;
+}
+.buttom p{
+	text-align:left;
+}
